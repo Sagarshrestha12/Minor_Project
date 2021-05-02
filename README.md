@@ -59,15 +59,6 @@ you just need to run app.py
 python run.py
 ```
 
-## 🔧 Running the tests <a name = "tests"></a>
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-Explain what these tests test and why
-
-```
-Give an example
-```
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 - [SQLite](https://www.sqlite.org/) - Database
